@@ -3,3 +3,4 @@ model.pt
 data
 .data
 datasets
+**/__pycache__
